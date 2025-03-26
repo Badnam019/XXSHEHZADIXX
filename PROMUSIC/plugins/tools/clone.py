@@ -102,8 +102,8 @@ async def clone_txt(client, message, _):
                 "name": bot.first_name,
                 "token": bot_token,
                 "username": bot.username,
-                "channel": "THE_INCRICIBLE",
-                "support": "ZOYU_SUPPORT",
+                "channel": "YASH_ABOUT_XD_lll",
+                "support": "TEAM_BADNAM_BOTS",
                 "premium" : False,
                 "Date" : False,
             }
