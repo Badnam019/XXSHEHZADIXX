@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/auntyxd12/XXSHEHZADIXX",
+    "https://github.com/Badnam019/XXSHEHZADIXX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Incricible")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/zoyu_support")
-SOURCE = getenv("SOURCE", "https://t.me/zoyu_Support")
-CHAT = getenv("CHAT", "https://t.me/the_incricible")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/YASH_ABOUT_XD_lll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YASH_ABOUT_XD_lll")
+SOURCE = getenv("SOURCE", "https://t.me/TEAM_BADNAM_BOTS")
+CHAT = getenv("CHAT", "https://t.me/YASH_ABOUT_XD_lll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,10 +139,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/cm1e7m.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/juh0re.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/6ew59e.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/juh0re.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/66b7bb1cf206376dd5ceb-03d047178a9c3418c9.jpg"
 STATS_IMG_URL = "https://graph.org/file/7db127c0ab5acc37bdfa5-30891a03d37366afbe.jpg"
