@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/Legend_mickey"
+                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/BADNAM_BABY_lll_YADAV"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/The_Incricible"
+                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/TEAM_BADNAM_BOTS"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -236,10 +236,10 @@ def stream_markup2(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/Legend_mickey"
+                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/BADNAM_BABY_lll_YADAV"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/The_incricible"
+                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/TEAM_BADNAM_BOTS"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -519,10 +519,10 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/Legend_mickey"
+                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"https://t.me/BADNAM_BABY_lll_YADAV"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/The_Incricible"
+                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/TEAM_BADNAM_BOTS"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
