@@ -29,14 +29,14 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://files.catbox.moe/ot47lb.mp4",
-"https://files.catbox.moe/7wwi3l.mp4",
-"https://files.catbox.moe/ot47lb.mp4",
-"https://files.catbox.moe/7wwi3l.mp4",
-"https://files.catbox.moe/ot47lb.mp4",
-"https://files.catbox.moe/7wwi3l.mp4",
-"https://files.catbox.moe/kp2mu1.mp4",
-"https://files.catbox.moe/ot47lb.mp4",
+"https://files.catbox.moe/rp5ai8.mp4",
+"https://files.catbox.moe/yh19xh.mp4",
+"https://files.catbox.moe/6t7n6u.mp4",
+"https://files.catbox.moe/tc7tjs.mp4",
+"https://files.catbox.moe/4p5os4.mp4",
+"https://files.catbox.moe/58c1cj.mp4",
+"https://files.catbox.moe/wh9pgk.mp4",
+"https://files.catbox.moe/vh49fu.mp4",
 
 ]
 
@@ -100,24 +100,19 @@ async def start_pm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
-        baby = await message.reply_text(f"ᴅɪηɢ ᴅᴏηɢ.🥀")
-        await baby.edit_text(f"ᴅɪηɢ ᴅᴏηɢ..🥀")
-        await baby.edit_text(f"ᴅɪηɢ ᴅᴏηɢ...🥀")
-        await baby.edit_text(f"ᴅɪηɢ ᴅᴏηɢ....🥀")
-        await baby.edit_text(f"ᴅɪηɢ ᴅᴏηɢ.....🥀")
-        await baby.edit_text(f"sᴛᴧʀᴛɪηɢ.❤️‍🔥")
-        await baby.edit_text(f"sᴛᴧʀᴛɪηɢ..❤️‍🔥")
-        await baby.edit_text(f"sᴛᴧʀᴛɪηɢ...❤️‍🔥")
-        await baby.edit_text(f"sᴛᴧʀᴛɪηɢ....❤️‍🔥")
-        await baby.edit_text(f"sᴛᴧʀᴛɪηɢ.....❤️‍🔥")
-        await baby.edit_text(f"ʙσᴛ sᴛᴧʀᴛєᴅ.💤")
-        await baby.edit_text(f"ʙσᴛ sᴛᴧʀᴛєᴅ..💤")
-        await baby.edit_text(f"ʙσᴛ sᴛᴧʀᴛєᴅ...💤")
-        await baby.edit_text(f"ʙσᴛ sᴛᴧʀᴛєᴅ....💤")
-        await baby.edit_text(f"ʙσᴛ sᴛᴧʀᴛєᴅ.....💤")
+        baby = await message.reply_text(f"**कुछ अलग ही था**")
+        await baby.edit_text(f"**हमारे रिश्ते**")
+        await baby.edit_text(f"**का रंग**")
+        await baby.edit_text(f"**तुम्हारे जान**")
+        await baby.edit_text(f"**से वो अधूरा**")
+        await baby.edit_text(f"**रह गया**")
+        await baby.edit_text(f"**पर मेरे दिल**")
+        await baby.edit_text(f"**में आज भी वो**")
+        await baby.edit_text(f"**रंग कायम**")
+        await baby.edit_text(f"**है जोया जी**")
+        await baby.edit_text(f"**कुछ अलग ही था हमारे रिश्ते का रंग तुम्हारे जाने से वो अधूरा रह गया पर मेरे दिल में आज भी वो रंग कायम है जोया जी**")
+        await baby.edit_text(f"**❖ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ..**")
         await baby.delete()
-   
-       
         
         await message.reply_video(
             random.choice(NEXI_VID),
